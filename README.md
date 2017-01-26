@@ -37,9 +37,6 @@ good old x264, but with supirior opus or flac audio
 | UltraHD | VP9@30M  | Opus@256k | WebM      |
 | UltraHD | VP9@30M  | FLAC      | MKV       |
 |         |          |           |           |
-|         |          |           |           |
-|         |          |           |           |
-|         |          |           |           |
 
 
 # put these in
