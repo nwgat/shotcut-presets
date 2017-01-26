@@ -1,6 +1,7 @@
 f=matroska
 
-acodec=flac
+acodec=libopus
+ab=256k
 
 vcodec=libx265
 vb=40M
