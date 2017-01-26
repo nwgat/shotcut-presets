@@ -26,16 +26,18 @@ another new codec
 good old x264, but with supirior opus or flac audio
 
 
-# 
+**HD**
 | Name    | Video    | Audio     | Container |
 |---------|----------|-----------|-----------|
 | Nwgat-MKV-HD-x264      | HD x264@12M | Opus@256k | MKV       |
 | Nwgat-MKV-HD-x265      | HD x265@12M | Opus@256k | MKV       |
-| Nwgat-MKV-UltraHD-x265 | UltraHD x265@40M | Opus@256k      | MKV       |
 | Nwgat-WebM-HD      | HD VP9@12M  | Opus@256k | WebM      |
+
+**UltraHD**
+| Nwgat-MKV-UltraHD-x265 | UltraHD x265@40M | Opus@256k      | MKV       |
 | Nwgat-WebM-UltraHD | UltraHD VP9@40M  | Opus@256k      | WebM       |
 
-# FLACified
+**FLACified**
 | Name    | Video    | Audio     | Container |
 |---------|----------|-----------|-----------|
 | Nwgat-MKV-UltraHD-VP9-FLAC | UltraHD VP9@40M | FLAC | MKV       |
