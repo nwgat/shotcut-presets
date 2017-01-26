@@ -32,10 +32,10 @@ good old x264, but with supirior opus or flac audio
 | HD      | x264@12M | Opus@256k | MKV       |
 | HD      | x265@12M | Opus@256k | MKV       |
 | HD      | VP9@12M  | Opus@256k | WebM      |
-| UltraHD | x265@30M | Opus@256k | MKV       |
-| UltraHD | x265@30M | FLAC      | MKV       |
-| UltraHD | VP9@30M  | Opus@256k | WebM      |
-| UltraHD | VP9@30M  | FLAC      | MKV       |
+| UltraHD | x265@40M | Opus@256k | MKV       |
+| UltraHD | x265@40M | FLAC      | MKV       |
+| UltraHD | VP9@40M  | Opus@256k | WebM      |
+| UltraHD | VP9@40M  | FLAC      | MKV       |
 |         |          |           |           |
 
 
