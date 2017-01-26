@@ -10,8 +10,8 @@ https://github.com/nwgat/shotcut-presets
 Best video and audio for a given filesize
 for those that likes quality above compatibility 
 
-**Matroska Container** 
-more awesome than anything else and its natively supported on Linux, Windows 10, many media players
+**Matroska or WebM Container** 
+more awesome than anything else and its natively supported on Linux, Windows 10, many media players, webm container is itself a subset of matroska
 
 **Opus Audio Codec** 
 by the IETF, its supported by alot of devices already and is basicly the cream-la-cream of audio as its far supirior to mp3/aac and is the sucessor to vorbis
