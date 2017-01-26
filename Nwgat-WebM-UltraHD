@@ -5,7 +5,7 @@ ar=48000
 ab=256k
 
 vcodec=libvpx-vp9
-vb=30M
+vb=40M
 g=120
 bf=2
 threads=0
