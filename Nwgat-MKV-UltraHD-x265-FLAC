@@ -3,7 +3,7 @@ f=matroska
 acodec=flac
 
 vcodec=libx265
-vb=12M
+vb=40M
 threads=0
 preset=medium
 
