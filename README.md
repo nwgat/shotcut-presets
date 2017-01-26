@@ -29,14 +29,13 @@ good old x264, but with supirior opus or flac audio
 #
 | Name    | Video    | Audio     | Container |
 |---------|----------|-----------|-----------|
-| HD      | x264@12M | Opus@256k | MKV       |
-| HD      | x265@12M | Opus@256k | MKV       |
-| HD      | VP9@12M  | Opus@256k | WebM      |
-| UltraHD | x265@40M | Opus@256k | MKV       |
-| UltraHD | x265@40M | FLAC      | MKV       |
-| UltraHD | VP9@40M  | Opus@256k | WebM      |
-| UltraHD | VP9@40M  | FLAC      | MKV       |
-|         |          |           |           |
+| Nwgat-MKV-HD-x264      | HD x264@12M | Opus@256k | MKV       |
+| Nwgat-MKV-HD-x265      | HD x265@12M | Opus@256k | MKV       |
+| Nwgat-WebM-HD      | HD VP9@12M  | Opus@256k | WebM      |
+| Nwgat-MKV-UltraHD-VP9-FLAC | UltraHD VP9@40M | FLAC | MKV       |
+| Nwgat-MKV-UltraHD-x265 | UltraHD x265@40M | Opus@256k      | MKV       |
+| Nwgat-MKV-UltraHD-x265-FLAC  | UltraHD VP9@40M  | Opus@256k | WebM      |
+| Nwgat-WebM-UltraHD | UltraHD VP9@40M  | Opus@256k      | MKV       |
 
 
 # put these in
