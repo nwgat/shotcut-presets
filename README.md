@@ -34,7 +34,7 @@ good old x264, but with supirior opus or flac audio
 | Nwgat-WebM-HD      | HD VP9@12M  | Opus@256k | WebM      |
 | Nwgat-MKV-UltraHD-VP9-FLAC | UltraHD VP9@40M | FLAC | MKV       |
 | Nwgat-MKV-UltraHD-x265 | UltraHD x265@40M | Opus@256k      | MKV       |
-| Nwgat-MKV-UltraHD-x265-FLAC  | UltraHD VP9@40M  | Opus@256k | WebM      |
+| Nwgat-MKV-UltraHD-x265-FLAC  | UltraHD VP9@40M  | FLAC | WebM      |
 | Nwgat-WebM-UltraHD | UltraHD VP9@40M  | Opus@256k      | MKV       |
 
 
