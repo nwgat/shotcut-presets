@@ -18,6 +18,7 @@ tile-columns=6
 frame-parallel=1
 auto-alt-ref=1
 lag-in-frames=25
+pass=1
 
 meta.preset.name=Nwgat UltraHD MKV VP9 FLAC
 meta.preset.extension=matroska

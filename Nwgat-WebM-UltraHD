@@ -5,7 +5,7 @@ ar=48000
 ab=256k
 
 vcodec=libvpx-vp9
-vb=40M
+vb=30M
 g=120
 bf=2
 threads=0
@@ -20,6 +20,7 @@ tile-columns=6
 frame-parallel=1
 auto-alt-ref=1
 lag-in-frames=25
+pass=1
 
 meta.preset.name=Nwgat UltraHD WebM VP9 Opus
 meta.preset.extension=webm
