@@ -2,13 +2,7 @@
 Because the defaults are pointless
 https://github.com/nwgat/shotcut-presets
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Matroska-logo-128x128.png"height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/320px-Opus_logo2.svg.png"height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Vp9-logo-for-mediawiki.svg/320px-Vp9-logo-for-mediawiki.svg.png"height="30" />
-<img src="https://upload.wikimedia.org/wikipedia/en/f/fa/X265_HEVC_Encoder_Logo.png"height="30" />
-
-Best video and audio for a given filesize
-for those that likes quality above compatibility 
+Best video and audio for a given filesize for those that likes quality above compatibility 
 
 **Matroska or WebM Container** 
 more awesome than anything else and its natively supported on Linux, Windows 10, many media players, webm container is itself a subset of matroska
