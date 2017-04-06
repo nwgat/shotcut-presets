@@ -1,8 +1,10 @@
-##Nwgat High Quality Presets for Shotcut
+##Nwgat High Quality Presets for 
+
 Because the defaults are pointless
+
 https://github.com/nwgat/shotcut-presets
 
-Best video and audio for a given filesize for those that likes quality above compatibility 
+Best video and audio for a given filesize for those that likes quality above compatibility, these pesets use hyper reize for better resize 
 
 **Matroska or WebM Container** 
 more awesome than anything else and its natively supported on Linux, Windows 10, many media players, webm container is itself a subset of matroska
