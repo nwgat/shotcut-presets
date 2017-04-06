@@ -1,4 +1,4 @@
-##Nwgat High Quality Presets for 
+## Nwgat High Quality Presets for Shotcut
 
 Because the defaults are pointless
 
