@@ -11,4 +11,3 @@ deinterlace_method=yadif
 rescale=hyper
 refs=9
 crf=16
-rescale=hyper
