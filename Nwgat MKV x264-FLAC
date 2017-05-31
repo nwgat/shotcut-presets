@@ -1,0 +1,11 @@
+pix_fmt=yuv420p
+f=matroska
+acodec=flac
+vcodec=libx264
+preset=slow
+profile=high
+level=4.1
+deinterlace_method=yadif
+rescale=hyper
+refs=9
+crf=16

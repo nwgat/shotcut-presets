@@ -1,0 +1,13 @@
+f=yuv4mpegpipe
+vcodec=wrapped_avframe
+pix_fmt=yuv420p
+an=1
+audio_off=1
+width=1280
+height=720
+aspect=1.77778
+progressive=1
+top_field_first=0
+deinterlace_method=yadif
+rescale=hyper
+threads=15

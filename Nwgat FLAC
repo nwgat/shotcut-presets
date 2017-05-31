@@ -1,0 +1,6 @@
+f=flac
+acodec=flac
+ar=48000
+ab=384k
+vn=1
+video_off=1

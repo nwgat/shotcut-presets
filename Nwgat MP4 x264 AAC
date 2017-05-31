@@ -1,0 +1,14 @@
+pix_fmt=yuv420p
+movflags=+faststart
+f=mp4
+acodec=aac
+ab=256k
+vcodec=libx264
+preset=slow
+profile=high
+level=4.1
+deinterlace_method=yadif
+rescale=hyper
+refs=9
+crf=16
+rescale=hyper
