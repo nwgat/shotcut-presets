@@ -21,20 +21,5 @@ another new codec
 **x264/AVC**
 good old x264, but with supirior opus or flac audio
 
-
-**UltraHD**
-
-| Name    | Video    | Audio     | Container |
-|---------|----------|-----------|-----------|
-| Nwgat-MKV-UltraHD-x265 | UltraHD x265@40M | Opus@256k      | MKV       |
-| Nwgat-WebM-UltraHD | UltraHD VP9@40M  | Opus@256k      | WebM       |
-
-**FLACified**
-
-| Name    | Video    | Audio     | Container |
-|---------|----------|-----------|-----------|
-| Nwgat-MKV-UltraHD-VP9-FLAC | UltraHD VP9@40M | FLAC | MKV       |
-| Nwgat-MKV-UltraHD-x265-FLAC  | UltraHD x265@40M  | FLAC | MKV      |
-
 # put these in
 `C:\Program Files\Shotcut\share\mlt\presets\consumer\avformat` (windows x64)
