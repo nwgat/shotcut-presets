@@ -1,6 +1,5 @@
 f=matroska
 acodec=flac
 vcodec=libx265
-threads=8
 crf=16
 rescale=hyper
