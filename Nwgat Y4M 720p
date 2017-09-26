@@ -10,4 +10,3 @@ progressive=1
 top_field_first=0
 deinterlace_method=yadif
 rescale=hyper
-threads=15
