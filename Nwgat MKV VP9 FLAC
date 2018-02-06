@@ -1,6 +1,7 @@
 f=matroska
 acodec=flac
 vcodec=libvpx-vp9
+row-mt=1
 bitrate=0
 crf=30
 rc_lookahead=16
