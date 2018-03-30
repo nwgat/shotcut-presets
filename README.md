@@ -22,4 +22,4 @@ another new codec
 good old x264, but with supirior opus or flac audio
 
 # put these in
-`C:\Program Files\Shotcut\share\mlt\presets\consumer\avformat` (windows x64)
+`C:\Users\YOURUSER\AppData\Local\Meltytech\Shotcut\presets\encode` (windows x64)
